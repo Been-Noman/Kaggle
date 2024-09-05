@@ -1,10 +1,10 @@
-**Contests list**
--------------------------
-
 Beginner-Friendly Kaggle Competitions
 ----------------------------------------------------------------------
+
 **Kaggle Suggestions:** [Kaggle Getting Started](https://www.kaggle.com/competitions?hostSegmentIdFilter=5)
+
 **Types:** Classification, Regression, Computer Vision, Image Processing, NLP, Optimization, Simulation
+
 Kaggle Playground:
 -------------------------------------------------------
 
@@ -51,8 +51,11 @@ Kaggle Playground:
 |  Flavours of Physics: Finding τ → μμμ (Kernels Only)   |       [Link](https://www.kaggle.com/competitions/flavours-of-physics-kernels-only)       |       [Code](https://www.kaggle.com/competitions/flavours-of-physics-kernels-only/code)       |             |            C            |                        |           |
 |                   Painter by Numbers                   |              [Link](https://www.kaggle.com/competitions/painter-by-numbers)              |              [Code](https://www.kaggle.com/competitions/painter-by-numbers/code)              |             |           CV            |                        |           |
 |   Open Images Instance Segmentation RVC 2020 edition   |  [Link](https://www.kaggle.com/competitions/open-images-instance-segmentation-rvc-2020)  |  [Code](https://www.kaggle.com/competitions/open-images-instance-segmentation-rvc-2020/code)  |             |           CV            |                        |           |
-** "SCD" = See competition description, "-" = No suggestions present **
-** TS = Time series analysis, C = Classification, CV = Computer Vision, R = Regression, O = Optimization, S = Simulation, DL = Deep Learning, G = Geospatial Analysis**
+
+"SCD" = See competition description, "-" = No suggestions present 
+
+C = Classification, CV = Computer Vision, DL = Deep Learning, G = Geospatial Analysis, O = Optimization,  R = Regression,  S = Simulation, TS = Time series analysis,    
+
 Kaggle Research: 
 ------------------------------
 
@@ -86,8 +89,12 @@ Kaggle Research:
 |         iMaterialist Challenge at FGVC 2017         |         [Link](https://www.kaggle.com/competitions/imaterialist-challenge-FGVC2017)         |         [Code](https://www.kaggle.com/competitions/imaterialist-challenge-FGVC2017/code)         |             |    CV    |                        |           |
 |                iWildCam 2022 - FGVC9                |               [Link](https://www.kaggle.com/competitions/iwildcam2022-fgvc9)                |               [Code](https://www.kaggle.com/competitions/iwildcam2022-fgvc9/code)                |             |    CV    |                        |           |
 |     15.071x - The Analytics Edge (Spring 2015)      |     [Link](https://www.kaggle.com/competitions/15-071x-the-analytics-edge-spring-20152)     |                                                --                                                |             |    C     |                        |           |
-** "SCD" = See competition description, "-" = No suggestions present **
-** TS = Time series analysis, C = Classification, CV = Computer Vision, R = Regression, O = Optimization, S = Simulation, DL = Deep Learning, G = Geospatial Analysis **
+
+"SCD" = See competition description, "-" = No suggestions present 
+
+C = Classification, CV = Computer Vision, DL = Deep Learning, G = Geospatial Analysis, O = Optimization,  R = Regression,  S = Simulation, TS = Time series analysis,    
+
+
 Kaggle Simulations:
 -----------------------------------
 
@@ -95,27 +102,17 @@ Kaggle Simulations:
 | :--------------------------------------: | :----------------------------------------------------------------------: | :---------------------------------------------------------------------------: | :---------: | :------: | :--------------------: | :-------: |
 |                Connect X                 |           [Link](https://www.kaggle.com/competitions/connectx)           |           [Code](https://www.kaggle.com/competitions/connectx/code)           |             |    S     |                        |           |
 | Halite by Two Sigma - Playground Edition | [Link](https://www.kaggle.com/competitions/halite-iv-playground-edition) | [Code](https://www.kaggle.com/competitions/halite-iv-playground-edition/code) |             |    S     |                        |           |
-** "SCD" = See competition description, "-" = No suggestions present **
-** TS = Time series analysis, C = Classification, CV = Computer Vision, R = Regression, O = Optimization, S = Simulation, DL = Deep Learning, G = Geospatial Analysis **
+
+"SCD" = See competition description, "-" = No suggestions present 
+
+C = Classification, CV = Computer Vision, DL = Deep Learning, G = Geospatial Analysis, O = Optimization,  R = Regression,  S = Simulation, TS = Time series analysis,    
+
 
 **Kaggle Competitions Instructions:** [Docs Comp.](https://www.kaggle.com/docs/competitions)
+
 **Kaggle Official Learning Guide:** [Learn Comp](https://kaggle.com/learn-guide/kaggle-competitions)
 
-**Mistral Suggestions: (Lots of broken links)**
-
-|                   Competition                    |                                     Competition Link                                     |                                        Notebook                                         | Github Repo | Criteria | Practice Skills Marker | Tutorials |
-| :----------------------------------------------: | :--------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------: | :---------: | :------: | :--------------------: | :-------: |
-|   **Titanic: Machine Learning from Disaster**    |                   [Competition Link](https://www.kaggle.com/c/titanic)                   |      [Notebook](https://www.kaggle.com/startupsci/titanic-data-science-solutions)       |             |    C     |                        |           |
-| **House Prices: Advanced Regression Techniques** | [Competition Link](https://www.kaggle.com/c/house-prices-advanced-regression-techniques) |   [Notebook](https://www.kaggle.com/serigne/stacked-regressions-top-4-on-leaderboard)   |             |    C     |                        |           |
-|              **Spaceship Titanic**               |              [Competition Link](https://www.kaggle.com/c/spaceship-titanic)              |            [Notebook](https://www.kaggle.com/c/spaceship-titanic/notebooks)             |             |    C     |                        |           |
-|                 **Wine Quality**                 |                [Competition Link](https://www.kaggle.com/c/wine-quality)                 |                                           --                                            |             |    C     |                        |           |
-|         **Forest Cover Type Prediction**         |        [Competition Link](https://www.kaggle.com/c/forest-cover-type-prediction)         |           [Code](https://www.kaggle.com/c/forest-cover-type-prediction/code)            |             |    C     |                        |           |
-|             **Bike Sharing Demand**              |             [Competition Link](https://www.kaggle.com/c/bike-sharing-demand)             |                [Code](https://www.kaggle.com/c/bike-sharing-demand/code)                |             |    TS    |                        |           |
-|               **Digit Recognizer**               |              [Competition Link](https://www.kaggle.com/c/digit-recognizer)               | [Notebook](https://www.kaggle.com/yassineghouzam/introduction-to-cnn-keras-0-997-top-6) |             |    CV    |                        |           |
-** "SCD" = See competition description, "-" = No suggestions present **
-** TS = Time series analysis, C = Classification, CV = Computer Vision, R = Regression, O = Optimization, S = Simulation, DL = Deep Learning, G = Geospatial Analysis **
-
-Gemini, Claude gave bullshit resources and suggestions. Perplexity gave nice google results and quality collection of problems.
+Gemini, Claude gave useless resources and suggestions. Perplexity gave useful google results and quality collection of problems.
 
 ### Books on Kaggle:
 --------------------
@@ -125,17 +122,27 @@ Gemini, Claude gave bullshit resources and suggestions. Perplexity gave nice goo
 4. https://github.com/abhishekkrthakur/approachingalmost/blob/master/AAAMLP.pdf
 
 **Book review:** https://insideainews.com/2023/06/23/book-review-the-kaggle-book-workbook/
+
 **Book discussion:** [https://www.youtube.com/live/Seh8ApkltLM](https://www.youtube.com/live/Seh8ApkltLM)
 
-I have to manually search for books and test quality and relevance to Kaggle, I cannot depend on gpts.
+You have to manually search for books and test quality and relevance to kaggle, you cannot and should not depend on gpts.
 
-### GitHub Repos: (Kaggle Specific)
-----------------------------------
+### GitHub Repos: (Kaggle Specific):
+------------------------------------
 1. https://github.com/PacktPublishing/Developing-Kaggle-Notebooks
 2. https://github.com/PacktPublishing/The-Kaggle-Book
 3. https://github.com/search?q=Kaggle&type=repositories
-### Guidelines for Kaggle Competitions
 
+### Kaggle Solutions:
+---------------------
+1. https://ndres.me/kaggle-past-solutions/
+2. https://www.kaggle.com/code/sudalairajkumar/winning-solutions-of-kaggle-competitions
+3. https://farid.one/kaggle-solutions/
+4. https://www.dataquest.io/blog/kaggle-getting-started/
+5. https://www.dataquest.io/blog/kaggle-tutorial/
+
+### Guidelines for Kaggle Competitions:
+---------------------------------------
 1. **Understand the Problem**: Read the competition description thoroughly to understand the problem and the evaluation metric.
 2. **Exploratory Data Analysis (EDA)**: Perform EDA to understand the data and identify patterns.
 3. **Feature Engineering**: Create new features that might improve the model's performance.
@@ -146,8 +153,9 @@ I have to manually search for books and test quality and relevance to Kaggle, I 
 8. **Ensemble Methods**: Combine multiple models to improve performance.
 9. **Submission**: Make predictions on the test set and submit your results.
 10. **Learn from Others**: Study the notebooks and discussions of top performers to learn new techniques.
+
 ### Suggestions: 
----------------
+----------------
 1. https://www.kdnuggets.com/2022/05/packt-top-4-tricks-competing-kaggle-start.html
 2. https://www.kdnuggets.com/2022/11/comprehensive-list-kaggle-solutions-ideas.html
 3. https://www.kdnuggets.com/2018/11/secret-sauce-top-kaggle-competition.html
@@ -165,16 +173,10 @@ I have to manually search for books and test quality and relevance to Kaggle, I 
 15. https://analyticsindiamag.com/developers-corner/step-by-step-guide-to-win-kaggle-competitions/
 
 Read notebooks of best solutions from previous contests for further guidelines. And also look for YouTube tuts for further walkthroughs and insights. Finally, look for medium blogs on kaggle.
-### Kaggle Solutions:
--------------------
-1. https://ndres.me/kaggle-past-solutions/
-2. https://www.kaggle.com/code/sudalairajkumar/winning-solutions-of-kaggle-competitions
-3. https://farid.one/kaggle-solutions/
-4. https://www.dataquest.io/blog/kaggle-getting-started/
-5. https://www.dataquest.io/blog/kaggle-tutorial/
+
 
 ### Extras:
---------
+-----------
 1. https://kaggle.com/discussions/getting-started/78482
 2. https://www.practiceprobs.com/
 3. https://www.kaggle.com/discussions/general/203318
